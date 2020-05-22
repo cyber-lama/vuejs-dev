@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "devDependencies": {
+    "css-loader": "^3.5.3"
+  },
+  "dependencies": {
+    "cross-env": "^7.0.2"
+  }
+}
